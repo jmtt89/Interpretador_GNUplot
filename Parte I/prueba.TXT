@@ -1,0 +1,15 @@
+a5=[];
+b=+4.25e5;
+c=e56;
+
+d=-(-45);
+
+a=if(sin(45),34,sin(pi));
+
+for i in range(1.558, 4)
+    push_back(a,x^i+10)
+endfor
+
+plot range(-10,20), 'wata' with [lines, points, linespoints];
+plot range(-10,20), 'wata' with linespoints #FASDASD
+
