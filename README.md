@@ -1,5 +1,5 @@
 Interpretador GNU PLOT
-=========
+=======================
 
 Proyecto de Traductores e Interpretadores
 -----------------------------------------
